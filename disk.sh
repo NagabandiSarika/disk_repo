@@ -9,3 +9,4 @@ echo "Running out of space \"$partition ($usep%)\" on $(hostname) as on $(date)"
 ssmtp -s "Alert: Almost out of disk space $usep%" sarika.n2499@gmail.com
 fi
 done
+#hi
